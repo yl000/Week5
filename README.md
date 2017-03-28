@@ -6,10 +6,8 @@ Instruction to clone the files to your local machine.
    ![Forking](http://i.imgur.com/M0zwgi4.jpg) 
    ![Forking](http://i.imgur.com/G3OSi7S.jpg)
 
-2. Clone the repo using the URL in the right sidebar by the following command on git-bash.
-   ```
-   git clone https://github.com/Introtocs/Week5.git
-   ```
+2. Clone the repo using the URL of your own repo in the right sidebar by the following command on git-bash.
+
    ![Cloning](http://i.imgur.com/ODRMn3m.jpg)
    ![Cloning](http://i.imgur.com/0RcOulB.jpg)
    Copy the URL given in the URL box in the Download/Clone option. 
